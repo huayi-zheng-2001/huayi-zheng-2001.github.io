@@ -28,7 +28,7 @@
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Huayi-Zheng
+research_gate_profile: Huayi-Zheng
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: UtGKv48AAAAJ
 # scopus_id: # your profile on Scopus
@@ -37,7 +37,7 @@ scholar_userid: UtGKv48AAAAJ
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-wechat_qr: QRcode.jpg# filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
