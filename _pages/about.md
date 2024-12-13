@@ -9,8 +9,9 @@ profile:
   image: Huayi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mail:zhenghuayi23@mails.ucas.ac.cn</p>
-    <p>Wechat:zhenghy2001</p>
+    <p>zhenghuayi23@mails.ucas.ac.cn</p>
+
+
 
 
 news: true # includes a list of news items
