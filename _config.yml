@@ -268,9 +268,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+
 
   style: apa
   locale: en
