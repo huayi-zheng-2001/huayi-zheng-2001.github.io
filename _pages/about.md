@@ -9,8 +9,7 @@ profile:
   image: Huayi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mail:zhenghuayi23@mails.ucas.ac.cn</p>
-    <p>Wechat:zhenghy2001</p>
+    <p>Key Laboratory of Earth System Numerical Modeling and Application</p>
 
 
 
