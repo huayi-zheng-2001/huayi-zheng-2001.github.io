@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Huayi
 middle_name:
 last_name: Zheng
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -69,7 +68,6 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-
 # Social integration
 # -----------------------------------------------------------------------------
 
@@ -108,6 +106,9 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
+  
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
