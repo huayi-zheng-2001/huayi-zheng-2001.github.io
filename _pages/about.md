@@ -6,7 +6,7 @@ subtitle: Ocean and climate change
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Huayi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <E-mails:zhenghuayi23@mails.ucas.ac.cn>
