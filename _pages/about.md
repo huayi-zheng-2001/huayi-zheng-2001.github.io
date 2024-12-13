@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Key Laboratory of Earth System Numerical Modeling and Application</p>
-
+    <p>email: zhenghuayi23@mails.ucas.ac.cn</p>
 
 
 
