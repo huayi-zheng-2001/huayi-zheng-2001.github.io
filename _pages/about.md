@@ -21,5 +21,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Master student at [Institute of Atmospheric Physics, Chinese Academy of Sciences], working with [Prof. Lijing Cheng](http://www.ocean.iap.ac.cn/pages/aboutUs/aboutUs.html?navAnchor=aboutUs)
+I am currently a Master student at Institute of Atmospheric Physics, Chinese Academy of Sciences, working with [Prof. Lijing Cheng](http://www.ocean.iap.ac.cn/pages/aboutUs/aboutUs.html?navAnchor=aboutUs)
 
