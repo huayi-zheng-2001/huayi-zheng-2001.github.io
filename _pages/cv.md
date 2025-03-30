@@ -4,12 +4,12 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example.pdf
+cv_pdf: example_pdf.pdf
 ---
 
 
 
-- [Download CV](/assets/pdf/example.pdf)
+- [Download CV](/assets/pdf/example_pdf.pdf)
 
 
 <br>
