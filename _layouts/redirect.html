@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Immediately redirect to the PDF file using the cv_pdf variable -->
+  <meta http-equiv="refresh" content="0; url={{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}">
+  <link rel="canonical" href="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}">
+  <title>Download CV</title>
+</head>
+<body>
+  <p>If the page doesn't automatically redirect, please click <a href="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}" download>here</a> to download the PDF file.</p>
+</body>
+</html>
