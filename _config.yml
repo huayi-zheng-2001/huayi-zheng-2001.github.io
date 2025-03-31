@@ -312,7 +312,6 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
-    website,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
